@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Prz_Simple_calc">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Prz_Simple_calc"/>
+        <property name="java-output-path" value="/Prz_Simple_calc/target/classes"/>
+    </wb-module>
+</project-modules>
